@@ -6,7 +6,7 @@
 Songify is an elegant React.js Music Application which have various similarities with spotify, it consumes ShazamCore API to pull the different charts around the world 
 so you can be able to listen to all in trend tracks
 
-Want to test it out ? <a href="https://sd-lyriks.netlify.app/"><b>Click here</b></a>
+*__Want to test it out ? <a href="https://sd-lyriks.netlify.app/"><b>Click here</b></a>__*
 
 # Built With ...
 * <img src="https://user-images.githubusercontent.com/73201973/194350759-c7f3f12a-71cf-475e-8b6a-7087a64aef6c.png" width="16" height="16" />&nbsp; <b>ReactJS</b>
